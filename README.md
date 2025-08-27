@@ -1,15 +1,18 @@
-# discern-lib-mod-js U fluent-cerner-js
+# discern-lib-mod-js
+
+This is a modified version of fluent-cerner-js and it will still follow the same structure and design.
+
+The original fluent-cerner-js was forked to make this modified library to suit workflows that's appropriate for other areas.
 
 A modern API for interacting with the Cerner Millennium application. Modern Typescript/Javascript wrappers have been created to enhance the productivity of software engineers who are tasked with interacting with the Cerner Millennium application. This software is in it's alpha stage and should be used with caution. Additionally, it doesn't cover a full set of the Cerner Millennium application's functionality. It is a work in progress.
+                                                                                          |
 
-| Environment | CI                                                                                                                             | Publish                                                                                                   |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
-| Production  | ![Main Build](https://github.com/geekmdtravis/fluent-cerner-js/actions/workflows/main.yml/badge.svg?branch=main)               | ![Main Publish](https://github.com/geekmdtravis/fluent-cerner-js/actions/workflows/publish.yml/badge.svg) |
-| Development | ![Development Build](https://github.com/geekmdtravis/fluent-cerner-js/actions/workflows/main.yml/badge.svg?branch=development) | Not Applicable                                                                                            |
+## Modder to Modded Library (discern-lib-mod-js)
+- [peter103](https://github.com/peter103) - Primary Modder of discern-lib-mod-js
 
-## Contributors
+## Contributors (fluent-cerner-js)
 
-- [Travis Nesbit, MD (geekmdtravis)](https://github.com/geekmdtravis/) - Primary Author
+- [Travis Nesbit, MD (geekmdtravis)](https://github.com/geekmdtravis/) - Primary Author of fluent-cerner-js
 - [Daniel "Danny" Lara, MD (dl2github)](https://github.com/dl2github)
 
 ## API In Action
